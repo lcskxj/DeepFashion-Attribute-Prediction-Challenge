@@ -22,9 +22,12 @@ Recently, deep learning has been applied in a wide range of fields. Convolutiona
 
 ## Main experimental results
 
+### Results for different network size
 ![Results for multi-label model when using different network size](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_1.png)
 ![Results for multi-head model when using different network size](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_2.png)
+### Data augmentation
 ![Performance with and without data augmentation](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_1_2.png)
+### Different training methods
 ![Training progresses of different training methods](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_1_3.png)
 
 ## Conclusion
