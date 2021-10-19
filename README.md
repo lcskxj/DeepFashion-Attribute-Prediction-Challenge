@@ -1,5 +1,5 @@
 
-# Project Report for Assignment 1 for *Deep Learning for Data Science (CE7454 Course)*
+# Project Report 1 for *Deep Learning for Data Science (CE7454 Course)*
 
 
 ## Abstract
