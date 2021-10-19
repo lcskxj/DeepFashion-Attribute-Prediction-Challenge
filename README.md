@@ -22,10 +22,10 @@ Recently, deep learning has been applied in a wide range of fields. Convolutiona
 
 ## Main experimental results
 
-![Results for arXiv.cs.ai dataset](https://github.com/kangjie-chen/NLP_project/blob/master/pictures/table_2.png)
-![Results for arXiv.cs.cl dataset](https://github.com/kangjie-chen/NLP_project/blob/master/pictures/table_3.png)
-![Results for arXiv.cs.lg dataset](https://github.com/kangjie-chen/NLP_project/blob/master/pictures/table_4.png)
-
+![Results for multi-label model when using different network size](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_1.png)
+![Results for multi-head model when using different network size](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_2.png)
+![Performance with and without data augmentation](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_1_2.png)
+![Training progresses of different training methods](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/256_1_3.png)
 
 ## Conclusion
 This work solves the DeepFashion Attribute Prediction Challenge by proposing two neural network structures based on ResNet50. These two neural networks are built through regarding the attribute prediction task as six multi-class and a multi-label classification task, separately. To improve the performance, I applied several model optimization and data regularization techniques in the training progress. Experimental results show that proposed models can predict fashion attributes with high accuracy. 
