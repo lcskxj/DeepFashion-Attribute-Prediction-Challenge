@@ -11,11 +11,11 @@ Recently, deep learning has been applied in a wide range of fields. Convolutiona
 
 ### Multi-head 
 
-![Multi-head model stracture](https://github.com/kangjie-chen/NLP_project/blob/master/pictures/Model_structure.png)
+![Multi-head model stracture](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/1.png)
 
 ### Multi-label
 
-![Multi-label model stracture](https://github.com/kangjie-chen/NLP_project/blob/master/pictures/Model_structure.png)
+![Multi-label model stracture](https://github.com/lcskxj/DeepFashion-Attribute-Prediction-Challenge/blob/main/figs/2.png)
 
 
 
